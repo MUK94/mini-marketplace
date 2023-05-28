@@ -1,1 +1,2 @@
 # mini-marketplace
+# Django, TailwindCSS
